@@ -1,0 +1,40 @@
+/* Global Features*/
+
+
+/*Text*/
+.text-center{
+    text-align: center;
+}
+
+.heading-small{
+    font-size: 1.25rem;
+}
+
+.heading-medium{
+    font-size: 1.5rem;
+}
+
+.heading-big{
+    font-size: 1.75rem;
+}
+
+/*Color*/
+
+.bg-green{
+    background-color: #26B859;
+}
+
+.bg-light-green{
+    background-color: #32C766;
+}
+.bg-grey{
+    background-color: #39424E;
+}
+
+
+/*Container*/
+
+.container{
+    max-width: 1100px;
+    margin: 0 auto;
+}

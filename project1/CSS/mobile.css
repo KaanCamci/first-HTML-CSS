@@ -1,0 +1,44 @@
+#navbar{
+    flex-direction: column;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    overflow: hidden;
+    height: 80px;
+}
+
+#coding-img{
+    width: 60vw;
+    height: 40vw;
+}   
+#photo{
+    width: 40vw;
+    height: 40vw;
+    border-radius: 40vw;
+    overflow: hidden;
+    }
+
+#navbar h1{
+    display: none;
+}
+
+#navbar ul{
+    margin-top: 2vh;
+}
+
+#biography{
+    max-width: 1000px;
+    margin: 2vh 2vh;
+    padding-top: 4vw;
+}
+
+#projects h1{
+    margin-top: 2vh;
+}
+
+#projects #coming-soon{
+    font-size: 14vw;
+}
+
+#contact h1{
+    padding-top: 2vh;
+}
